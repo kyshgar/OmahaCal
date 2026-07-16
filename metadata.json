@@ -1,0 +1,6 @@
+{
+  "name": "PLO Dealer",
+  "description": "Pot Limit Omaha poker dealer calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
